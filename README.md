@@ -57,6 +57,20 @@ The six jobs above came from 2018–2022 emails and are all expired. Research in
 
 Research sources: [Cutshort listing](https://cutshort.io/job/Fullstack-Developer-Calicut-Kozhikode-Calicut-Coddle-Technologies-Pvt-Ltd--rOQS2ndo), [Coddle careers](https://www.coddletech.com/careers), [Naukri — Coddle](https://www.naukri.com/coddle-technologies-jobs-careers-2410092), [Instahyre — Metric Tree Labs](https://www.instahyre.com/jobs-at-metric-tree-labs/), [Instamojo hiring page](https://recruiterflow.com/instamojo/jobs), [revlity.com](https://revlity.com/), [Waypoint Systems](https://waypoint-systems.com/about-us.html).
 
+## ✅ UK Shortlist — passes the base check (researched 2026-07-07, via LinkedIn + web)
+
+Roles/employers in the UK at licensed Skilled Worker sponsors, matched to the profile. Direct applications must be made by the candidate (LinkedIn/portals require a human; automated applying is not possible or permitted).
+
+| Company | Role family & location | Sponsor status | Why it matches | Where to apply | Resume |
+|---|---|---|---|---|---|
+| **American Express** | Software/Senior Engineer (Java) — **Burgess Hill (Sussex House)** / Brighton; ~20 live local jobs | ✅ **Verified** — American Express Services Europe Ltd is an active licensed sponsor | Current work is literally credit card benefits & enrolments — Amex's core domain; and Burgess Hill is minutes from Haywards Heath (local candidate, hybrid-friendly) | [jobs.americanexpress.com/uk](https://jobs.americanexpress.com/uk) → filter Burgess Hill / Technology; [LinkedIn listings](https://uk.linkedin.com/jobs/american-express-jobs-burgess-hill) | [`resumes/2026-UK/Cheriyan_Maman_American_Express_Senior_Engineer_Java.md`](resumes/2026-UK/Cheriyan_Maman_American_Express_Senior_Engineer_Java.md) (+ PDF) |
+| **JPMorgan Chase** | Software Engineer III / Senior (Java) — London, Glasgow, Bournemouth; 32 live UK SWE listings | ✅ **Verified** — sponsored 1,584 workers in 2024; most paid £50k–£80k+ | Built identity-verification microservices for a UK digital retail bank launch (1.6M+ customers); open-banking compliance; FinTech Java at scale | [JPMC careers portal](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?location=United+Kingdom&locationLevel=country); [LinkedIn listings](https://uk.linkedin.com/jobs/j.p.-morgan-software-engineer-jobs) | [`resumes/2026-UK/Cheriyan_Maman_JPMorgan_Chase_Senior_Software_Engineer_Java.md`](resumes/2026-UK/Cheriyan_Maman_JPMorgan_Chase_Senior_Software_Engineer_Java.md) (+ PDF) |
+| **Send Technology** | Senior Java Software Engineer — London (hybrid), insurtech SaaS, ~146 employees | ⚠️ **Unverified** — check the [gov.uk sponsor register](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) for their legal entity before applying | Java/Spring Boot senior role; SaaS workflow automation for a regulated industry mirrors the benefits/enrolments platform work | [LinkedIn job post](https://uk.linkedin.com/jobs/view/senior-java-software-engineer-at-send-4386722870); [send.technology/careers](https://send.technology/careers/) | [`resumes/2026-UK/Cheriyan_Maman_Send_Technology_Senior_Java_Software_Engineer.md`](resumes/2026-UK/Cheriyan_Maman_Send_Technology_Senior_Java_Software_Engineer.md) (+ PDF) |
+
+Broader search pools for more UK+sponsorship roles: [LinkedIn "visa sponsorship" UK jobs (2,000+)](https://uk.linkedin.com/jobs/visa-sponsorship-available-jobs), [LinkedIn visa sponsor jobs — London (345)](https://uk.linkedin.com/jobs/visa-sponsor-jobs-london), [Glassdoor UK Java Spring Boot visa sponsorship](https://www.glassdoor.co.uk/Job/united-kingdom-java-spring-boot-visa-sponsorship-jobs-SRCH_IL.0,14_IN2_KO15,48.htm).
+
+**Note:** exact requisition IDs could not be captured from this environment (job portals block automated access), so each resume targets the role family; pick the specific requisition on the portal — the resume fits the family.
+
 ## Notes on the email search
 
 - Gmail contained only one email from the **Wellfound** brand itself: "AngelList Talent is now Wellfound" (2022-11-17), which is the rebrand announcement and contains no job description.
