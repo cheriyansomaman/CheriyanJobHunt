@@ -34,6 +34,20 @@ Per-job emphasis:
 5. **Revlity — Three.js/WebGL:** browser visualization work (Angular 4 + Highcharts dashboards, aircraft engine parts showcase app), JS/TS skills, C++ basics, fast-learning track record.
 6. **Waypoint — Enterprise:** enterprise integration (SOAP + REST), regulatory compliance (CDR/open banking audits), vendor integrations, team/incident leadership.
 
+## 2026 Live Openings Research (researched 2026-07-07)
+
+The six jobs above came from 2018–2022 emails and are all expired. Research into what these companies are hiring for **now**:
+
+| Company | Live openings found (July 2026) | Match vs profile | Action taken |
+|---|---|---|---|
+| **Coddle Technologies** | **Fullstack Developer** (Calicut/Kozhikode, via Cutshort): Java/J2EE 3–7 yrs; 2+ yrs Angular/React; Core Java (collections, multi-threading, design patterns); Hibernate, Spring, REST; JavaScript/jQuery; SQL & NoSQL; UML & ERD modelling; end-to-end delivery, peer code/design review, guiding the team on critical issues. ~6–10 more roles listed on Naukri/Indeed/Glassdoor. **Apply: careers@coddletech.com with the designation in the subject line.** | **Strong** — near-exact profile match | New tailored resume: [`resumes/2026/Cheriyan_Maman_Coddle_Technologies_Fullstack_Developer_2026.md`](resumes/2026/Cheriyan_Maman_Coddle_Technologies_Fullstack_Developer_2026.md) (+ PDF) |
+| **Metric Tree Labs** | **MERN Stack Developer** (Kochi, via Instahyre, 1–4 yrs); also React Native Developer (2–4 yrs) and C++/SQL Developer (5+ yrs C++). **Apply: Aswathi@metrictreelabs.com or WhatsApp 8089280014.** | **Moderate** — MERN role is junior-levelled and React/Node-centric; React Native and C++ roles are not a fit | New tailored resume for the MERN role: [`resumes/2026/Cheriyan_Maman_Metric_Tree_Labs_MERN_Stack_Developer_2026.md`](resumes/2026/Cheriyan_Maman_Metric_Tree_Labs_MERN_Stack_Developer_2026.md) (+ PDF) |
+| **Instamojo** | Hiring only in Business Operations, Growth, Marketing, Risk & Compliance and Support (via recruiterflow.com/instamojo/jobs); no engineering openings found | None currently | No resume — monitor recruiterflow.com/instamojo/jobs for engineering roles |
+| **Revlity** | Company now does 3D property virtual tours (revlity.com); no job openings found | n/a | No resume |
+| **Waypoint Systems FZCO** | Active company (enterprise software, RFID, POS — Dubai Silicon Oasis) but no published openings found | n/a | No resume — speculative application possible via info@waypoint-systems.com |
+
+Research sources: [Cutshort listing](https://cutshort.io/job/Fullstack-Developer-Calicut-Kozhikode-Calicut-Coddle-Technologies-Pvt-Ltd--rOQS2ndo), [Coddle careers](https://www.coddletech.com/careers), [Naukri — Coddle](https://www.naukri.com/coddle-technologies-jobs-careers-2410092), [Instahyre — Metric Tree Labs](https://www.instahyre.com/jobs-at-metric-tree-labs/), [Instamojo hiring page](https://recruiterflow.com/instamojo/jobs), [revlity.com](https://revlity.com/), [Waypoint Systems](https://waypoint-systems.com/about-us.html).
+
 ## Notes on the email search
 
 - Gmail contained only one email from the **Wellfound** brand itself: "AngelList Talent is now Wellfound" (2022-11-17), which is the rebrand announcement and contains no job description.
