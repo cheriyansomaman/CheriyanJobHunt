@@ -51,8 +51,8 @@ Java developer with 10+ years of experience delivering enterprise-grade software
 
 ### Software Engineer — Tata Consultancy Services (December 2015 – May 2019)
 
-- Developed and maintained healthcare administration software for GE Healthcare serving 50+ hospitals; bed management modules reduced patient wait times by 40%.
-- Built a secure custom-report web application on UAA Predix Cloud Service and an aircraft engine parts management platform with Java and Spring Boot.
+- Developed and maintained healthcare administration software for a global healthcare technology client serving 50+ hospitals; bed management modules reduced patient wait times by 40%.
+- Built a secure custom-report web application on a UAA-secured enterprise cloud service and an aircraft engine parts management platform with Java and Spring Boot.
 - Front-end work with Angular 4 and Highcharts data visualization.
 
 ## Education

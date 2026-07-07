@@ -19,7 +19,7 @@ Engineer with 10+ years of experience building and operating production FinTech 
 ## Key Skills
 
 - **DevOps & CI/CD:** Docker, Kubernetes (k8s, k9s), Helm, Jenkins, TeamCity, Git/Bitbucket, Gradle, Maven, Continuous Integration/Deployment, DevSecOps
-- **Cloud & Infrastructure:** AWS CloudWatch, Predix cloud services, Tomcat, JBoss, basic Terraform
+- **Cloud & Infrastructure:** AWS CloudWatch, enterprise cloud services (UAA), Tomcat, JBoss, basic Terraform
 - **Observability & Reliability:** Grafana, New Relic, Honeycomb, incident management, production troubleshooting (memory issues, API errors, dependency failures)
 - **Security & Quality:** SonarQube, Fortify, Snyk, Wiremock, TDD/BDD, Spock
 - **Backend:** Java, Spring Boot, Vert.x, Kafka, REST APIs, PostgreSQL, Aurora, Couchbase
@@ -49,8 +49,8 @@ Engineer with 10+ years of experience building and operating production FinTech 
 
 ### Software Engineer — Tata Consultancy Services (December 2015 – May 2019)
 
-- Developed and maintained healthcare administration software for GE Healthcare serving 50+ hospitals; bed management optimisation reduced patient wait times by 40%.
-- Built a custom report generation web app secured through UAA Predix Cloud Service.
+- Developed and maintained healthcare administration software for a global healthcare technology client serving 50+ hospitals; bed management optimisation reduced patient wait times by 40%.
+- Built a custom report generation web app secured through an enterprise cloud UAA service.
 - Created an aircraft engine parts management application with Java and Spring Boot.
 
 ## Education

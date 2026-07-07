@@ -20,7 +20,7 @@ Full stack developer with 10+ years of experience shipping production web applic
 
 - **M — Document/NoSQL databases:** Couchbase in production (MongoDB-comparable document model); PostgreSQL/Aurora for relational
 - **E — API layer:** REST API design and development (JSON/XML/YAML), Swagger documentation, authentication flows, bulk data endpoints
-- **R — Component-based UI:** Angular 4 production dashboards (GE Healthcare, 50+ hospitals), JavaScript, TypeScript, HTML, Highcharts; familiar with React's component/props/state model
+- **R — Component-based UI:** Angular 4 production dashboards (global healthcare client, 50+ hospitals), JavaScript, TypeScript, HTML, Highcharts; familiar with React's component/props/state model
 - **N — Async, event-driven backends:** Vert.x non-blocking microservices and Kafka event streams — directly transferable to Node.js
 - **Engineering practices:** TDD/BDD (98% coverage), Git/Bitbucket, Docker, Kubernetes, Jenkins CI/CD, SonarQube, Agile/Scrum
 
@@ -49,11 +49,11 @@ Full stack developer with 10+ years of experience shipping production web applic
 
 ### Full Stack Developer (Software Engineer) — Tata Consultancy Services (December 2015 – May 2019)
 
-**Digital Health Administration Dashboard | India** — GE Healthcare software used by 50+ hospitals.
+**Digital Health Administration Dashboard | India** — healthcare administration software for a global healthcare technology client, used by 50+ hospitals.
 - Built component-based UIs and dashboards with **Angular 4**, JavaScript and Highcharts; bed management modules cut patient wait times by 40%.
 
 **Data report tool (POC) | India**
-- Built a native web application where users select a database, tables and columns to generate visualized custom reports, secured via UAA Predix Cloud Service.
+- Built a native web application where users select a database, tables and columns to generate visualized custom reports, secured via an enterprise cloud UAA service.
 
 **Aircraft Assets management (POC) | India**
 - Created a full-stack web application for aircraft engine parts management with Java and Spring Boot.

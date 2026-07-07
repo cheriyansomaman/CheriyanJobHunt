@@ -26,8 +26,8 @@ Software developer with 10+ years of experience shipping production web applicat
 
 ## Selected work relevant to 3D/visualization
 
-- **Aircraft Assets management (POC), TCS/GE:** Planned and created a web application serving as a centralized platform for **showcasing components of an aircraft engine**, tracking maintenance schedules and enabling parts ordering — component-based visual presentation of complex 3D machinery in the browser.
-- **Digital Health Administration Dashboard, TCS/GE Healthcare:** Implemented intuitive dashboards with **Angular 4 + Highcharts** interactive visualizations used by clinicians in 50+ hospitals.
+- **Aircraft Assets management (POC), TCS (aerospace client):** Planned and created a web application serving as a centralized platform for **showcasing components of an aircraft engine**, tracking maintenance schedules and enabling parts ordering — component-based visual presentation of complex 3D machinery in the browser.
+- **Digital Health Administration Dashboard, TCS (global healthcare technology client):** Implemented intuitive dashboards with **Angular 4 + Highcharts** interactive visualizations used by clinicians in 50+ hospitals.
 - **Data report tool (POC):** Built a native web application generating user-configured visual reports from live database selections.
 
 ## Experience
@@ -47,7 +47,7 @@ Software developer with 10+ years of experience shipping production web applicat
 
 ### Full Stack Developer (Software Engineer) — Tata Consultancy Services (December 2015 – May 2019)
 
-- Developed healthcare administration software for GE Healthcare (50+ hospitals); bed management optimisation cut patient wait times by 40%.
+- Developed healthcare administration software for a global healthcare technology client (50+ hospitals); bed management optimisation cut patient wait times by 40%.
 - Built the Angular 4 + Highcharts dashboard, custom report tool, and aircraft engine parts platform described above.
 - Trained 3 months on front-end and back-end technologies (Java/Spring Boot, HTML, JavaScript frameworks).
 

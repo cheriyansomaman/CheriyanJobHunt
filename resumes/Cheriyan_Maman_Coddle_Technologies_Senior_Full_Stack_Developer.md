@@ -52,16 +52,16 @@ Full stack developer with 10+ years of diverse experience in software developmen
 - Enhanced communication management software using the Adobe SOAP API; set up 5,000+ OTP and 10,000+ notification requests while maintaining system efficiency and reliability.
 
 **Identity verification adapters | India/UK**
-- Integrated third-party identity verification services (Mitek, Onfido, FrankieOne) into Spring Boot RESTful microservices; supported the UK launch that onboarded 1.6M+ Chase customers in 20 months.
+- Integrated third-party identity verification services (Mitek, Onfido, FrankieOne) into Spring Boot RESTful microservices; supported a leading UK digital bank launch that onboarded 1.6M+ customers in 20 months.
 
 ### Full Stack Developer (Software Engineer) — Tata Consultancy Services (December 2015 – May 2019)
 
-**Digital Health Administration Dashboard | India** — Healthcare administration software for GE Healthcare used by 50+ hospitals.
+**Digital Health Administration Dashboard | India** — Healthcare administration software for a global healthcare technology client, used by 50+ hospitals.
 - Developed bed management modules that reduced patient wait times by 40% through intelligent resource allocation.
 - Implemented user-friendly interfaces and dashboards with **Angular 4** and integrated **Highcharts** data visualization.
 
 **Data report tool (POC) | India**
-- Built a native web application letting users select databases, tables and columns to generate custom reports with visualization, secured via UAA Predix Cloud Service.
+- Built a native web application letting users select databases, tables and columns to generate custom reports with visualization, secured via an enterprise cloud UAA service.
 
 **Aircraft Assets management (POC) | India**
 - Created a web application to manage aircraft engine parts — component catalogue, maintenance schedules and parts ordering — with Java, Spring Boot and object-oriented design.

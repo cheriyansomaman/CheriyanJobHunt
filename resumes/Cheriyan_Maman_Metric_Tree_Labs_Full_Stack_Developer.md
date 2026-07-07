@@ -51,12 +51,12 @@ Full stack developer with 10+ years of experience delivering web applications an
 
 ### Full Stack Developer (Software Engineer) — Tata Consultancy Services (December 2015 – May 2019)
 
-**Digital Health Administration Dashboard | India** — GE Healthcare software used by 50+ hospitals.
+**Digital Health Administration Dashboard | India** — healthcare administration software for a global healthcare technology client, used by 50+ hospitals.
 - Developed bed management modules reducing patient wait times by 40%.
 - Implemented user-friendly interfaces and dashboards with **Angular 4**, JavaScript/TypeScript and Highcharts.
 
 **Data report tool (POC) | India**
-- Built a web application where users select a database, tables and columns to generate visualized custom reports, secured via UAA Predix Cloud Service.
+- Built a web application where users select a database, tables and columns to generate visualized custom reports, secured via an enterprise cloud UAA service.
 
 **Aircraft Assets management (POC) | India**
 - Created a web application for aircraft engine parts management with Java and Spring Boot.

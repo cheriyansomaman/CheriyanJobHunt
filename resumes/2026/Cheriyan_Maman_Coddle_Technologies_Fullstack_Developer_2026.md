@@ -20,7 +20,7 @@ Full stack developer with 10+ years of Java/J2EE experience and a prime focus on
 
 - **Core Java:** Collections, multi-threading, design patterns; 10+ years across FinTech, healthcare and aerospace
 - **Frameworks:** Spring Boot, Spring MVC, Hibernate/JPA, Vert.x; REST API development (JSON/XML/YAML), Swagger
-- **Front end:** Angular (Angular 4 dashboards in production for GE Healthcare), JavaScript, HTML, TypeScript basics
+- **Front end:** Angular (Angular 4 dashboards in production for a global healthcare client), JavaScript, HTML, TypeScript basics
 - **SQL & NoSQL:** PostgreSQL and Aurora (indexing, views, performance tuning) · Couchbase (NoSQL document store)
 - **Design & modelling:** UML documentation with PlantUML, ERD/database structure analysis (20+ table schemas), design documentation culture with AsciiDoc/Confluence
 - **Review & leadership:** Code and design review of peers, defect ownership, guiding multiple teams, incident management
@@ -55,7 +55,7 @@ Full stack developer with 10+ years of Java/J2EE experience and a prime focus on
 
 ### Full Stack Developer (Software Engineer) — Tata Consultancy Services (December 2015 – May 2019)
 
-**Digital Health Administration Dashboard | India** — GE Healthcare software used by 50+ hospitals.
+**Digital Health Administration Dashboard | India** — healthcare administration software for a global healthcare technology client, used by 50+ hospitals.
 - Hands-on **Angular 4** front-end development: user-friendly interfaces and dashboards with Highcharts data visualization.
 - Developed bed management modules reducing patient wait times by 40%.
 
