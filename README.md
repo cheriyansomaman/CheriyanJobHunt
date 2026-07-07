@@ -6,6 +6,8 @@ All resumes are based on the reference resume `Cheriyan_Maman_23012025.pdf` and 
 
 **Resumes created on:** 2026-07-07
 
+Each resume is available in two formats in the `resumes/` folder: Markdown (`.md`, the editable source) and **PDF** (`.pdf`, ready to submit) — same file name, different extension.
+
 ## Job Summary & Resume Index
 
 | # | Company | Role | Location · Compensation | Job Summary | Source Email (Date) | Resume File |
