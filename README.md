@@ -4,6 +4,13 @@ Tailored resumes generated from job opportunities found in Gmail emails from **W
 
 All resumes are based on the reference resume `Cheriyan_Maman_23012025.pdf` and updated with the **current role at Infosys**: handling credit card benefits and enrolments, managing the team and incidents, and handling daily activities of the agile process.
 
+## ⚠️ Base Criteria — every opening must pass this check before a resume is tailored or an application is sent
+
+1. **UK positions only.** The candidate is based in Haywards Heath, West Sussex, UK. Only roles located in the UK (or UK-remote with a UK entity) qualify.
+2. **Visa sponsorship required.** The employer must be willing and able to sponsor a **Skilled Worker visa** — i.e., hold a Home Office **Worker sponsor licence**. Verify every employer against the official [UK Register of Licensed Sponsors: Workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) (searchable versions: [sponsorlist.co.uk](https://sponsorlist.co.uk/), [ukjobhunters.com sponsor search](https://www.ukjobhunters.com/search/sponsors/)) before applying.
+
+Any opening that fails either condition is out of scope, regardless of how well the skills match. **Status of this repo under the base check:** all six original Wellfound jobs (India/Singapore/Dubai) and both 2026 live openings found (Coddle — Calicut; Metric Tree Labs — Kochi) **fail** — none is UK-based and none of the companies was found on the UK sponsor register. The tailored resumes are kept for reference/reuse, but no application should be sent to these companies.
+
 **Resumes created on:** 2026-07-07
 
 Each resume is available in two formats in the `resumes/` folder: Markdown (`.md`, the editable source) and **PDF** (`.pdf`, ready to submit) — same file name, different extension.
@@ -36,7 +43,9 @@ Per-job emphasis:
 
 ## 2026 Live Openings Research (researched 2026-07-07)
 
-The six jobs above came from 2018–2022 emails and are all expired. Research into what these companies are hiring for **now**:
+The six jobs above came from 2018–2022 emails and are all expired. Research into what these companies are hiring for **now**.
+
+> **Base check result: every opening below FAILS the base criteria** (none is in the UK; no company found on the UK sponsor register). Kept for reference only — do not apply.
 
 | Company | Live openings found (July 2026) | Match vs profile | Action taken |
 |---|---|---|---|
